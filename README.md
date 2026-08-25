@@ -24,6 +24,10 @@
 
 ## 精选项目
 
+### 🔎 [AI Hotspot Studio](https://github.com/jiabaoz277-droid/AI-)
+
+围绕近期 AI 热点建立的内容工作流，用于完成信息检索、选题策划与文章撰写，把分散信息整理成结构清晰的内容。
+
 ### 🧰 [Build Resume](https://github.com/jiabaoz277-droid/1)
 
 面向中英文求职场景的 ChatGPT / Codex Skill，用于生成、定向改写、翻译与审阅简历，覆盖 JD 匹配、ATS 优化和双语本地化。
