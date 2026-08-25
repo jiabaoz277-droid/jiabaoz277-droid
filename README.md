@@ -1,50 +1,81 @@
 <div align="center">
-
-# 你好，我是朱家宝 👋
-
-### 数字产品设计 · 前端开发 · AI 产品探索
-
-把模糊的想法梳理成清晰的产品，再用设计与代码让它真正可用。
-
-[![GitHub](https://img.shields.io/badge/GitHub-jiabaoz277--droid-181717?style=flat-square&logo=github)](https://github.com/jiabaoz277-droid)
-![Profile Views](https://komarev.com/ghpvc/?username=jiabaoz277-droid&style=flat-square&color=595855)
-
+  <img src="https://raw.githubusercontent.com/jiabaoz277-droid/jiabaoz277-droid/main/assets/profile-header.svg" width="100%" alt="朱家宝 — Make Ideas Real" />
 </div>
+
+<br />
+
+<p align="center">
+  <strong>把模糊的想法，做成清晰、可用、能够持续迭代的产品。</strong>
+</p>
+
+<p align="center">
+  Product Thinking&nbsp;&nbsp;·&nbsp;&nbsp;Experience Design&nbsp;&nbsp;·&nbsp;&nbsp;Frontend Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Prototyping
+</p>
+
+<p align="center">
+  <a href="https://github.com/jiabaoz277-droid?tab=repositories">WORK</a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://github.com/jiabaoz277-droid/AI-">AI NOTES</a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://github.com/jiabaoz277-droid/1">BUILD RESUME</a>
+</p>
 
 ---
 
-## 关于我
+### 01 / ABOUT
 
-我关注数字产品从想法到落地的完整过程：理解问题、梳理需求、设计体验，并把方案实现为可以使用和持续迭代的产品。
+你好，我是朱家宝。
 
-- 🧭 用产品视角寻找真正值得解决的问题
-- 🎨 喜欢清晰、克制、有层次的界面与交互
-- 🧩 正在探索 AI 产品、Agent 工作流与可复用 Skills
-- 🛠️ 持续用前端开发把想法做成可验证的原型
+我喜欢从产品问题出发，梳理需求与体验，再用设计和代码把方案做成可以验证的原型。现在主要关注 **AI 产品、Agent 工作流、数字体验与前端实现**。
 
-## 精选项目
+我相信好的产品不是功能的堆叠，而是让重要的东西清楚地站出来。
 
-### 🔎 [AI Hotspot Studio](https://github.com/jiabaoz277-droid/AI-)
+<br />
 
-围绕近期 AI 热点建立的内容工作流，用于完成信息检索、选题策划与文章撰写，把分散信息整理成结构清晰的内容。
+### 02 / SELECTED WORK
 
-### 🧰 [Build Resume](https://github.com/jiabaoz277-droid/1)
+#### [AI Hotspot Studio ↗](https://github.com/jiabaoz277-droid/AI-)
 
-面向中英文求职场景的 ChatGPT / Codex Skill，用于生成、定向改写、翻译与审阅简历，覆盖 JD 匹配、ATS 优化和双语本地化。
+`RESEARCH / EDITORIAL WORKFLOW / AI`
 
-### 🌙 DreamTrace
-
-正在推进中的产品概念与原型项目。从 PRD、信息架构到交互细节，持续验证如何把抽象需求转化为清晰、可执行的产品方案。
-
-## GitHub 数据
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jiabaoz277-droid&show_icons=true&hide_border=true&theme=transparent&hide_title=true" alt="朱家宝的 GitHub 数据" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiabaoz277-droid&layout=compact&hide_border=true&theme=transparent" alt="常用语言" />
-</div>
+围绕近期 AI 热点建立的内容工作流，将信息检索、选题策划与文章撰写串成一条清晰的生产链路。
 
 ---
 
-<div align="center">
-  <sub>保持好奇，持续把想法做成作品。</sub>
-</div>
+#### [Build Resume ↗](https://github.com/jiabaoz277-droid/1)
+
+`CODEX SKILL / CAREER TOOL / BILINGUAL`
+
+面向中英文求职场景的 ChatGPT / Codex Skill，覆盖 JD 匹配、ATS 优化、定向改写与双语本地化。
+
+---
+
+#### Personal Website
+
+`VISUAL SYSTEM / HTML / CSS / JAVASCRIPT`
+
+以“画廊展览”为概念的个人网站实验，用克制的字体、留白和明暗节奏组织个人作品与信息。
+
+---
+
+#### DreamTrace
+
+`PRODUCT CONCEPT / PRD / PROTOTYPE`
+
+从产品定义、信息架构到交互细节持续推进的概念项目，探索如何把抽象需求转化为可执行的产品方案。
+
+<br />
+
+### 03 / NOW
+
+- 研究 AI 产品与 Agent 的真实使用场景
+- 把重复工作沉淀为可复用的 Skills 与工作流
+- 持续练习产品表达、视觉系统与前端实现
+
+<br />
+
+---
+
+<p align="center">
+  <sub>THINK CLEARLY · DESIGN WITH INTENT · BUILD WHAT MATTERS</sub>
+</p>
