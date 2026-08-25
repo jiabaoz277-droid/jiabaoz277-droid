@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+  <title id="title">Jiabao product builder terminal</title>
+  <desc id="desc">Animated terminal card introducing Jiabao Zhu and his work</desc>
+  <style>
+    :root { color-scheme: light; }
+    .frame { fill: #f8fafb; stroke: #d6dee6; stroke-width: 2; }
+    .topbar { fill: #f0f3f5; }
+    .rule { stroke: #d6dee6; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .meta { fill: #93a0ad; font-size: 12px; letter-spacing: .7px; }
+    .headline { fill: #4d5f71; font-size: 18px; font-weight: 700; }
+    .copy { fill: #586a79; font-size: 16px; }
+    .prompt { fill: #2878c7; font-size: 16px; font-weight: 700; }
+    .success { fill: #3b956d; font-weight: 700; }
+    .row { opacity: 0; animation: show 8.4s ease-in-out infinite; }
+    .r1 { animation-delay: .1s; } .r2 { animation-delay: .42s; }
+    .r3 { animation-delay: .74s; } .r4 { animation-delay: 1.06s; }
+    .r5 { animation-delay: 1.38s; } .r6 { animation-delay: 1.7s; }
+    .r7 { animation-delay: 2.02s; } .r8 { animation-delay: 2.34s; }
+    .ready { fill: #2878c7; font-size: 17px; font-weight: 700; opacity: 0; animation: ready 8.4s ease-in-out infinite; }
+    .launch { fill: #4d5f71; font-size: 14px; letter-spacing: 1.7px; opacity: 0; animation: launch 8.4s ease-in-out infinite; }
+    .arrow { fill: #2878c7; font-size: 22px; opacity: 0; animation: move 1.4s ease-in-out infinite; animation-delay: 3.9s; }
+    @keyframes show {
+      0%, 5% { opacity: 0; transform: translateY(5px); }
+      10%, 78% { opacity: 1; transform: translateY(0); }
+      89%, 100% { opacity: 0; transform: translateY(-2px); }
+    }
+    @keyframes ready {
+      0%, 42% { opacity: 0; transform: translateY(5px); }
+      48%, 83% { opacity: 1; transform: translateY(0); }
+      93%, 100% { opacity: 0; }
+    }
+    @keyframes launch { 0%, 51% { opacity: 0; } 58%, 85% { opacity: 1; } 94%, 100% { opacity: 0; } }
+    @keyframes move { 0%, 100% { opacity: .35; transform: translateX(0); } 50% { opacity: 1; transform: translateX(7px); } }
+    @media (prefers-reduced-motion: reduce) { .row, .ready, .launch, .arrow { animation: none; opacity: 1; } }
+  </style>
+
+  <rect class="frame" x="1" y="1" width="998" height="518" rx="18"/>
+  <path class="topbar" d="M19 2h962a18 18 0 0 1 18 18v31H1V20A18 18 0 0 1 19 2z"/>
+  <line class="rule" x1="1" y1="52" x2="999" y2="52"/>
+  <circle cx="24" cy="27" r="7" fill="#ef6461"/>
+  <circle cx="47" cy="27" r="7" fill="#efbd4e"/>
+  <circle cx="70" cy="27" r="7" fill="#55b96f"/>
+  <text class="mono meta" x="500" y="31" text-anchor="middle">jiabao@studio — product-builder — 100×30</text>
+
+  <text class="mono headline row r1" x="54" y="93">jiabao OS v1.0.0 — Product Builder</text>
+  <text class="mono copy row r2" x="54" y="126">[ <tspan class="success">OK</tspan> ] 加载 /product     产品思考</text>
+  <text class="mono copy row r3" x="54" y="157">[ <tspan class="success">OK</tspan> ] 挂载 /experience  体验设计</text>
+  <text class="mono copy row r4" x="54" y="188">[ <tspan class="success">OK</tspan> ] 挂载 /frontend    原型实现</text>
+  <text class="mono copy row r5" x="54" y="219">[ <tspan class="success">OK</tspan> ] 挂载 /ai          Agent 工作流</text>
+
+  <text class="mono prompt row r6" x="54" y="267">jiabao@studio ~ % <tspan class="copy">whoami</tspan></text>
+  <text class="mono copy row r7" x="54" y="298">朱家宝 · Product Designer &amp; Builder</text>
+  <text class="mono prompt row r8" x="54" y="346">jiabao@studio ~ % <tspan class="copy">open selected-work</tspan></text>
+
+  <text class="mono ready" x="54" y="389">SYSTEM READY</text>
+  <text class="mono launch" x="500" y="448" text-anchor="middle">CLICK TO EXPLORE · jiabaoz277-droid</text>
+  <text class="mono arrow" x="500" y="483" text-anchor="middle">→</text>
+</svg>
