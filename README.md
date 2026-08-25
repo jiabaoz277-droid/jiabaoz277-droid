@@ -32,26 +32,9 @@
 
 面向中英文求职场景的 ChatGPT / Codex Skill，用于生成、定向改写、翻译与审阅简历，覆盖 JD 匹配、ATS 优化和双语本地化。
 
-### 🖼️ Personal Website
-
-以“画廊展览”为视觉概念的个人网站实验。使用纯 HTML、CSS 与 JavaScript 构建，探索克制的排版、明暗节奏与响应式体验。
-
 ### 🌙 DreamTrace
 
 正在推进中的产品概念与原型项目。从 PRD、信息架构到交互细节，持续验证如何把抽象需求转化为清晰、可执行的产品方案。
-
-## 我使用的工具
-
-<div align="center">
-
-![Product Design](https://img.shields.io/badge/Product_Design-111111?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
 
 ## GitHub 数据
 
